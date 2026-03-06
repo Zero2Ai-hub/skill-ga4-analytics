@@ -1,0 +1,6 @@
+node_modules/
+scripts/dist/
+scripts/node_modules/
+*.env
+.env
+service-account.json
